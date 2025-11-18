@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://catherinbor.github.io/.github/tidyup">  
+<a href="https://tanahavlic8094.github.io/.github/tidyup">  
 <img src="https://img.shields.io/badge/Get_Tidy_Up-darkgreen?style=for-the-badge&logo=apple" alt="Get Tidy Up">  
 </a>  
 </div>  
